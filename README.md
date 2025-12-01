@@ -39,9 +39,9 @@
 
 /Telefone
 
-##Cada seção abaixo contém os endpoints e JSONs de exemplo para testes em Postman/Thunder Client.
+## Cada seção abaixo contém os endpoints e JSONs de exemplo para testes em Postman/Thunder Client.
 
-###1. CLIENTE
+### 1. CLIENTE
 GET /cliente
 
 Retorna todos os clientes.
@@ -99,7 +99,7 @@ DELETE /cliente/{id}
 
 Exclui o cliente especificado.
 
-2. DOCUMENTO
+### 2. DOCUMENTO
 GET /documento
 
 Retorna todos os documentos.
